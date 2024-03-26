@@ -2,7 +2,7 @@
 
 This repository hosts the frontend code for a modern bank application developed using Tailwind CSS, a utility-first CSS framework. The application is crafted to deliver an intuitive and visually appealing user interface, enhancing the banking experience for users.
 
-#Key Features:
+# Key Features:
 
 - Responsive Design: The frontend is designed with responsiveness in mind, ensuring seamless accessibility across various devices, including desktops, tablets, and smartphones.
 
